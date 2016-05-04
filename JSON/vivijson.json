@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "One",
+    "password" : "leader",
+    "lastName" : "Two",
+    "number" : "+8 (916) 359-6696",
+    "email" : "Cloroh2@bk.ru"
+  },
+  {
+    "name" : "Alex",
+    "password" : "leader1488",
+    "lastName" : "Ross",
+    "number" : "+8 (916) 953-4455",
+    "email" : "Cloroh@bk.ru"
+  },
+  {
+    "name" : "Sergei",
+    "password" : "123456",
+    "lastName" : "Two",
+    "number" : "+4 (513) 321-8465",
+    "email" : "Cloro@bk.ru"
+  },
+  {
+    "name" : "Koke",
+    "password" : "kokoko",
+    "lastName" : "Loll",
+    "number" : "+1 (440) 831-6546",
+    "email" : "Koko@ko.ru"
+  }
+]
